@@ -40,7 +40,7 @@
         <details>
             <summary><h3>DCA-UTILS</h3></summary>
             <p>
-                <a title="View the list!" href="https://www.npmjs.com/search?q=%40volazy%2FDCA" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NPM-@volazy/DCA-black?style=for-the-badge&logo=npm&color=0075ff&labelColor=191919&logoColor=white" style="max-width: 100%; object-fit: cover; pointer-events: none;"></a>
+               <!-- <a title="View the list!" href="https://www.npmjs.com/search?q=%40volazy%2FDCA" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NPM-@volazy/DCA-black?style=for-the-badge&logo=npm&color=0075ff&labelColor=191919&logoColor=white" style="max-width: 100%; object-fit: cover; pointer-events: none;"></a> -->
                 <a title="Your npm project needs at least NodeJS 18.x" href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NODE->18.X-black?style=for-the-badge&logo=node.js&color=0075ff&labelColor=191919&logoColor=white" style="max-width: 100%; object-fit: cover; pointer-events: none;"></a><br>
                 <br>Unfortunately, more information about this project will not be available until later.
             </p>
