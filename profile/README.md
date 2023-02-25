@@ -24,7 +24,7 @@
         </h2>
         <p><i>Lazy people should give each other a helping hand so that you no longer have to make an effort and can just be lazy together.</i><br><br>We are a small lazy team that thought about joining forces to build Volazy as a side project and maybe work on some bigger projects as well. We had the idea of setting up such a project as early as 2020, but unfortunately we didn’t have the time and events like COVID-19 caused the idea to fizzle out.<br><br>In 2022 the idea came up to try the project again, which ended in us creating Volazy after a year of laziness at the beginning of 2023 and now working on small, larger and open source projects.<br><br>
         <ul>
-            <li>🎯 <b>We're currently focusing on:</b> Discord Server, DCA-Utils, Website</li>
+            <li>🎯 <b>We're currently focusing on:</b> DCA-Utils, Website</li>
             <li>💬 <b>Ask us about anything:</b> <a href="https://discord.gg/3JPBKWng63" target="_blank">Discord Server</a></li>
             <li>✍️️ <b>Languages we work in:</b> English & German</li>
         </ul>
